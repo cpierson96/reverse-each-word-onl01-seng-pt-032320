@@ -1,6 +1,5 @@
 def reverse_each_word(sentence)
- new_sentence = [] 
-  end
+puts "Hello there, and how are you?"
 
     
 end 
