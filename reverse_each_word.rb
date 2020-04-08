@@ -3,6 +3,7 @@ new_sentence = []
 sentence.each do |sentence|
 new_sentence << "Hello there, and how are you?"
 end
+end 
 new_sentence
     
 end 
